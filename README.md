@@ -17,7 +17,7 @@ After training the resultant model has output like below:
 ![alt text](https://raw.githubusercontent.com/naeemrehmat/Dense_Face_Detection/master/r180_35.jpg)
 
 Trained model weights can be accessed from the <a href= "https://drive.google.com/open?id=1cUnpwQpCLA87g1twhXx0TgEGAgf3Zeo2" >  link </a>.
-Clone this repo, install requirements as mentioned in "RetinaFace/requirements.txt" and use the following commond to test the model.
+Clone this repo, install requirements as mentioned in "RetinaFace/requirements.txt" and use the following command to test the model.
 
 ```
 python RetinaFace/detect.py --model_path model.pt --image_path file_name.jpeg
